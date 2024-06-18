@@ -35,8 +35,7 @@ For any questions, please contact me with the information below:
 
 ## Walkthrough Video
 
-A walkthrough video demonstrating the functionality of this application can be found [here](Video%20Walkthrough.MP3).
-
+A walkthrough video demonstrating the functionality of this application can be found [here](https://vimeo.com/user217657629).
 
 GitHub: [anniebooth00](https://github.com/anniebooth00)
 
